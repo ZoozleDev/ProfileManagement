@@ -1,8 +1,8 @@
-<h1>XepherCreator // TopZoozle</h1>
+# XepherCreator // TopZoozle
 
-<h2>Developer Rating:</h2>
+## Developer Rating:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<h2>Personality Rating:</h2>
+## Personality Rating:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
