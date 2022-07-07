@@ -1,4 +1,4 @@
-# XepherCreator // TopZoozle
+# Zoozle
 
 ## Developer Rating:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
